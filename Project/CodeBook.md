@@ -14,7 +14,7 @@ On the whole dataset, those columns with vague column names are corrected.
 
 ##New Dataset
 
-Finally, we generate a new dataset with all the average measures for each subject and activity type (30 subjects * 6 activities = 180 rows). The output file is called averages_data.txt, and uploaded to this repository.
+Finally, we generate a new dataset with all the average measures for each subject and activity type (6 activities*30 subjects= 180 rows). The output file is called output.txt, and uploaded to this repository.
 Variables
 x_train, y_train, x_test, y_test, subject_train and subject_test contain the data from the downloaded files.
 x_data, y_data and subject_data merge the previous datasets to further analysis.
